@@ -61,7 +61,7 @@ td {
 .form-container {
     max-width: 500px;
     margin: auto;
-    background: white;
+    background: rgb(163, 143, 143);
     padding: 30px;
     border-radius: 10px;
 }
